@@ -1,0 +1,127 @@
+facility_id,facility_name,state,lga,facility_level,ownership,setting,art_start_date,catchment_population,latitude,longitude
+AKS001,Comprehensive Health Centre Uyo,Akwa Ibom,Uyo,Primary,Private,Urban,2015-04-22,79792.0,10.09626,9.47271
+AKS002,General Hospital Ikot Ekpene,Akwa Ibom,Ikot Ekpene,Secondary,Public,Urban,2013-09-22,49951.0,7.01753,4.10253
+AKS003,Model Primary Health Centre Eket,Akwa Ibom,Eket,Primary,Public,Rural,2022-04-04,32449.0,8.46012,3.03009
+AKS004,Comprehensive Health Centre Etinan,Akwa Ibom,Etinan,Primary,Public,Rural,2018-09-03,193467.0,8.67776,5.11477
+AKS005,Comprehensive Health Centre Oron,Akwa Ibom,Oron,Primary,Public,Rural,2020-08-04,72505.0,10.6247,4.38552
+AKS006,Primary Health Centre Abak,Akwa Ibom,Abak,Primary,Public,Rural,2016-08-10,70260.0,6.37644,3.46073
+AKS007,Teaching Hospital Ikono,Akwa Ibom,Ikono,Tertiary,Public,Urban,2016-01-02,214234.0,6.50423,8.02949
+AKS008,Primary Health Centre Uyo II,Akwa Ibom,Uyo,Primary,Public,Rural,2017-01-25,231863.0,10.78759,3.51372
+AKS009,Primary Health Centre Ikot Ekpene II,Akwa Ibom,Ikot Ekpene,Primary,Public,Urban,2014-02-16,218070.0,8.37682,5.41578
+AKS010,General Hospital Eket II,Akwa Ibom,Eket,Secondary,Faith-based,,2016-10-08,,6.09845,3.15517
+AKS011,Comprehensive Health Centre Etinan II,Akwa Ibom,Etinan,Primary,Private,Urban,2019-02-22,87342.0,6.43089,4.63373
+AKS012,Cottage Hospital Oron II,Akwa Ibom,Oron,Secondary,Public,Urban,2013-02-12,106738.0,5.91351,6.28354
+AKS013,Model Primary Health Centre Abak II,Akwa Ibom,Abak,Primary,Public,Rural,2017-09-29,101599.0,11.1076,3.31338
+AKS014,Primary Health Centre Ikono II,Akwa Ibom,Ikono,Primary,Public,Rural,2013-04-24,146841.0,4.79607,4.56817
+AKS015,Mission Hospital Uyo II,Akwa Ibom,Uyo,Secondary,Public,Urban,2012-07-08,82726.0,7.34899,8.58463
+RIV001,Model Primary Health Centre Port Harcourt,Rivers,Port Harcourt,Primary,Public,Rural,2015-10-10,114013.0,8.62353,3.95156
+RIV002,Teaching Hospital Obio/Akpor,Rivers,Obio/Akpor,Tertiary,Faith-based,Urban,2015-01-14,103077.0,8.46075,4.69465
+RIV003,Comprehensive Health Centre Khana,Rivers,Khana,Primary,Public,Urban,2018-09-20,,5.20393,4.81687
+RIV004,Model Primary Health Centre Ahoada East,Rivers,Ahoada East,Primary,Public,Urban,2020-10-28,135389.0,5.8787,7.8826
+RIV005,Mission Hospital Degema,Rivers,Degema,Secondary,Public,Rural,2022-05-04,28410.0,8.84162,4.35863
+RIV006,Cottage Hospital Eleme,Rivers,Eleme,Secondary,Public,Urban,2016-07-21,73917.0,8.79275,6.28552
+RIV007,Primary Health Centre Port Harcourt II,Rivers,Port Harcourt,Primary,Public,Rural,2018-04-13,65263.0,7.9005,3.83369
+RIV008,Teaching Hospital Obio/Akpor II,Rivers,Obio/Akpor,Tertiary,Public,Urban,2015-12-14,203935.0,8.79856,7.1194
+RIV009,Mission Hospital Khana II,Rivers,Khana,Secondary,Faith-based,Urban,2014-04-15,40191.0,8.98335,7.12377
+RIV010,Teaching Hospital Ahoada East II,Rivers,Ahoada East,Tertiary,Faith-based,Urban,2021-04-09,,11.02799,6.65825
+RIV011,Model Primary Health Centre Degema II,Rivers,Degema,Primary,Public,Rural,2015-04-12,98805.0,5.41237,6.84961
+RIV012,Primary Health Centre Eleme II,Rivers,Eleme,Primary,Public,Urban,2012-11-21,68048.0,7.08982,6.66104
+RIV013,Mission Hospital Port Harcourt II,Rivers,Port Harcourt,Secondary,Faith-based,Urban,2020-08-19,42633.0,5.43884,3.47739
+RIV014,Cottage Hospital Obio/Akpor II,Rivers,Obio/Akpor,Secondary,Public,Urban,2016-11-01,227971.0,10.6153,3.91545
+RIV015,Specialist Hospital Khana II,Rivers,Khana,Tertiary,Private,Urban,2021-08-21,162035.0,6.68846,5.32579
+BEN001,Mission Hospital Makurdi,Benue,Makurdi,Secondary,Public,Urban,2019-04-02,,10.3045,8.29936
+BEN002,Specialist Hospital Gboko,Benue,Gboko,Tertiary,Public,Rural,2020-12-16,153412.0,10.72401,3.5689
+BEN003,General Hospital Otukpo,Benue,Otukpo,Secondary,Public,Urban,2018-07-11,27327.0,7.22987,7.6632
+BEN004,General Hospital Okpokwu,Benue,Okpokwu,Secondary,Public,Urban,2012-01-27,180303.0,10.3342,3.13662
+BEN005,Model Primary Health Centre Katsina-Ala,Benue,Katsina-Ala,Primary,Faith-based,Rural,2012-09-08,211375.0,7.92861,5.16443
+BEN006,Primary Health Centre Vandeikya,Benue,Vandeikya,Primary,,Rural,2015-04-12,35792.0,10.33827,4.15713
+BEN007,Specialist Hospital Makurdi II,Benue,Makurdi,Tertiary,,Urban,2013-01-06,127705.0,5.76858,3.24996
+BEN008,Teaching Hospital Gboko II,Benue,Gboko,Tertiary,Public,Rural,2022-01-08,186882.0,11.41134,8.28216
+BEN009,Primary Health Centre Otukpo II,Benue,Otukpo,Primary,Faith-based,Rural,2012-12-30,228717.0,5.86938,4.24178
+BEN010,Model Primary Health Centre Okpokwu II,Benue,Okpokwu,Primary,Private,Rural,2012-03-08,156936.0,8.509,8.62058
+BEN011,Model Primary Health Centre Katsina-Ala II,Benue,Katsina-Ala,Primary,Public,Rural,2019-10-13,,5.99994,8.27768
+BEN012,Cottage Hospital Vandeikya II,Benue,Vandeikya,Secondary,Public,Rural,2018-11-11,15864.0,8.57282,7.21073
+BEN013,Model Primary Health Centre Makurdi II,Benue,Makurdi,Primary,Public,Rural,2013-03-13,181267.0,11.23742,7.3077
+BEN014,Comprehensive Health Centre Gboko II,Benue,Gboko,Primary,Public,Rural,2020-06-24,99302.0,8.28992,5.8847
+BEN015,Primary Health Centre Otukpo II,Benue,Otukpo,Primary,Public,Rural,2016-11-20,159859.0,10.41603,4.09046
+LAG001,Primary Health Centre Ikorodu,Lagos,Ikorodu,Primary,Public,Urban,2016-05-06,224670.0,9.03057,3.8243
+LAG002,Specialist Hospital Lagos Island,Lagos,Lagos Island,Tertiary,Public,Urban,2021-04-30,54564.0,9.74826,9.09533
+LAG003,Teaching Hospital Badagry,Lagos,Badagry,Tertiary,Faith-based,Urban,2014-07-16,87219.0,5.74262,3.94507
+LAG004,Comprehensive Health Centre Surulere,Lagos,Surulere,Primary,Public,Rural,2012-12-11,86736.0,6.23187,8.71067
+LAG005,Mission Hospital Agege,Lagos,Agege,Secondary,Public,Urban,2021-11-30,68927.0,10.33223,3.79906
+LAG006,Specialist Hospital Alimosho,Lagos,Alimosho,Tertiary,Public,Rural,2019-11-22,168833.0,5.48785,7.63255
+LAG007,Primary Health Centre Ikorodu II,Lagos,Ikorodu,Primary,Faith-based,Rural,2016-08-18,133320.0,9.58016,8.83984
+LAG008,Cottage Hospital Lagos Island II,Lagos,Lagos Island,Secondary,Public,Urban,2017-01-05,151843.0,8.76303,6.05075
+LAG009,Mission Hospital Badagry II,Lagos,Badagry,Secondary,Public,Urban,2019-12-14,196974.0,8.14188,7.09702
+LAG010,Primary Health Centre Surulere II,Lagos,Surulere,Primary,Public,Rural,2019-10-20,16046.0,7.89207,6.40032
+LAG011,Cottage Hospital Agege II,Lagos,Agege,Secondary,Public,Urban,2018-08-24,151975.0,5.19843,3.81559
+LAG012,Primary Health Centre Alimosho II,Lagos,Alimosho,Primary,Public,Urban,2014-01-14,232842.0,10.46217,5.84308
+LAG013,Specialist Hospital Ikorodu II,Lagos,Ikorodu,Tertiary,Private,Urban,2015-02-01,188049.0,9.39449,3.07306
+LAG014,Cottage Hospital Lagos Island II,Lagos,Lagos Island,Secondary,Public,Urban,2013-09-23,222236.0,8.85619,8.86317
+LAG015,Model Primary Health Centre Badagry II,Lagos,Badagry,Primary,Faith-based,Rural,2012-02-07,215657.0,11.38297,4.49513
+FCT001,Mission Hospital AMAC,FCT,AMAC,Secondary,Public,Urban,2021-05-20,,7.66638,6.14878
+FCT002,General Hospital Bwari,FCT,Bwari,Secondary,Public,Urban,2015-03-15,95079.0,7.48881,7.98553
+FCT003,Specialist Hospital Gwagwalada,FCT,Gwagwalada,Tertiary,Public,Urban,2019-10-01,101275.0,10.75741,4.92143
+FCT004,Model Primary Health Centre Kuje,FCT,Kuje,Primary,Public,Urban,2013-02-08,140098.0,6.01472,5.14746
+FCT005,Primary Health Centre Abaji,FCT,Abaji,Primary,Private,Rural,2019-10-19,62249.0,5.84465,4.8811
+FCT006,Mission Hospital AMAC II,FCT,AMAC,Secondary,Faith-based,,2016-09-21,179899.0,11.11714,5.25003
+FCT007,Specialist Hospital Bwari II,FCT,Bwari,Tertiary,Public,Urban,2020-03-21,176109.0,11.2437,5.36213
+FCT008,Teaching Hospital Gwagwalada II,FCT,Gwagwalada,Tertiary,Public,Urban,2012-05-03,179776.0,7.95235,5.36932
+FCT009,Model Primary Health Centre Kuje II,FCT,Kuje,Primary,Public,Rural,2013-07-04,64529.0,8.10767,3.83141
+FCT010,Model Primary Health Centre Abaji II,FCT,Abaji,Primary,,Rural,2012-07-19,48013.0,6.15992,5.01652
+FCT011,Cottage Hospital AMAC II,FCT,AMAC,Secondary,Public,Urban,2015-08-04,187998.0,4.7418,4.29364
+FCT012,Mission Hospital Bwari II,FCT,Bwari,Secondary,Private,Urban,2013-02-01,205672.0,10.03903,8.19921
+FCT013,Cottage Hospital Gwagwalada II,FCT,Gwagwalada,Secondary,,Urban,2012-10-22,231480.0,5.39004,3.22416
+FCT014,General Hospital Kuje II,FCT,Kuje,Secondary,Public,Urban,2017-08-11,188372.0,7.84195,3.55709
+FCT015,Comprehensive Health Centre Abaji II,FCT,Abaji,Primary,Private,Rural,2012-10-20,168536.0,9.18109,6.85774
+KAD001,Model Primary Health Centre Kaduna North,Kaduna,Kaduna North,Primary,Public,Rural,2017-10-20,57099.0,8.59327,6.37145
+KAD002,Teaching Hospital Kaduna South,Kaduna,Kaduna South,Tertiary,Public,Urban,2016-02-21,180787.0,6.94266,7.08074
+KAD003,Mission Hospital Zaria,Kaduna,Zaria,Secondary,,Urban,2021-07-01,36521.0,4.62423,3.25122
+KAD004,Specialist Hospital Sabon Gari,Kaduna,Sabon Gari,Tertiary,Private,Urban,2016-07-10,208408.0,9.88102,7.78361
+KAD005,Cottage Hospital Chikun,Kaduna,Chikun,Secondary,Private,Rural,2013-04-23,71356.0,9.41969,3.85673
+KAD006,Specialist Hospital Kaduna North II,Kaduna,Kaduna North,Tertiary,Public,,2012-01-15,230863.0,6.55341,8.57095
+KAD007,Model Primary Health Centre Kaduna South II,Kaduna,Kaduna South,Primary,Faith-based,Rural,2014-01-24,181916.0,6.67932,5.65803
+KAD008,Model Primary Health Centre Zaria II,Kaduna,Zaria,Primary,Faith-based,,2014-10-25,28178.0,10.19564,8.17672
+KAD009,Model Primary Health Centre Sabon Gari II,Kaduna,Sabon Gari,Primary,Public,Urban,2020-11-30,114309.0,9.06308,3.94623
+KAD010,Cottage Hospital Chikun II,Kaduna,Chikun,Secondary,Public,,2017-02-12,166545.0,7.23334,7.9995
+KAD011,Primary Health Centre Kaduna North II,Kaduna,Kaduna North,Primary,,Rural,2019-01-11,122870.0,4.97027,7.87039
+KAD012,Comprehensive Health Centre Kaduna South II,Kaduna,Kaduna South,Primary,Public,Rural,2017-11-11,212166.0,5.38754,9.30016
+KAD013,Specialist Hospital Zaria II,Kaduna,Zaria,Tertiary,Public,Urban,2014-06-16,220914.0,5.96769,4.72278
+KAD014,General Hospital Sabon Gari II,Kaduna,Sabon Gari,Secondary,Faith-based,Urban,2012-05-08,98934.0,8.02366,7.41814
+KAD015,General Hospital Chikun II,Kaduna,Chikun,Secondary,Public,Urban,2013-06-25,70460.0,10.73494,5.31246
+CRS001,Model Primary Health Centre Calabar Municipal,Cross River,Calabar Municipal,Primary,Public,,2021-04-28,130983.0,11.32347,7.13662
+CRS002,Comprehensive Health Centre Ikom,Cross River,Ikom,Primary,Public,Rural,2017-12-09,157299.0,8.11427,3.4138
+CRS003,Specialist Hospital Ogoja,Cross River,Ogoja,Tertiary,Public,Urban,2019-12-15,65099.0,10.19936,4.32597
+CRS004,Comprehensive Health Centre Obudu,Cross River,Obudu,Primary,Private,Rural,2021-08-23,79986.0,8.29451,9.02428
+CRS005,Teaching Hospital Akamkpa,Cross River,Akamkpa,Tertiary,Public,Rural,2018-04-13,60094.0,7.90998,4.22526
+CRS006,Primary Health Centre Calabar Municipal II,Cross River,Calabar Municipal,Primary,Public,Rural,2020-03-08,195430.0,9.40478,3.56223
+CRS007,Model Primary Health Centre Ikom II,Cross River,Ikom,Primary,Private,Urban,2020-12-22,65803.0,10.81306,9.02731
+CRS008,Cottage Hospital Ogoja II,Cross River,Ogoja,Secondary,Public,Urban,2018-10-01,120537.0,7.02643,9.32698
+CRS009,Comprehensive Health Centre Obudu II,Cross River,Obudu,Primary,Public,Rural,2022-03-22,116972.0,8.85534,9.13962
+CRS010,Comprehensive Health Centre Akamkpa II,Cross River,Akamkpa,Primary,Public,Rural,2014-02-14,197851.0,10.363,6.09678
+CRS011,Comprehensive Health Centre Calabar Municipal II,Cross River,Calabar Municipal,Primary,Private,Urban,2017-10-18,19792.0,10.75565,3.48566
+CRS012,Model Primary Health Centre Ikom II,Cross River,Ikom,Primary,Public,Rural,2017-10-18,46195.0,5.01068,5.08764
+CRS013,Mission Hospital Ogoja II,Cross River,Ogoja,Secondary,Private,Urban,2017-10-14,208259.0,11.30675,7.21003
+CRS014,Comprehensive Health Centre Obudu II,Cross River,Obudu,Primary,Private,Urban,2018-08-05,155505.0,11.31909,9.02246
+CRS015,Model Primary Health Centre Akamkpa II,Cross River,Akamkpa,Primary,Public,Rural,2013-04-28,46842.0,8.79828,6.99613
+NAS001,Model Primary Health Centre Lafia,Nasarawa,Lafia,Primary,Public,Urban,2013-06-24,208581.0,6.0686,4.83814
+NAS002,Cottage Hospital Karu,Nasarawa,Karu,Secondary,Public,Urban,2018-03-06,120131.0,6.95968,5.79894
+NAS003,Cottage Hospital Keffi,Nasarawa,Keffi,Secondary,Private,Rural,2012-07-15,126933.0,5.21442,8.30679
+NAS004,Cottage Hospital Akwanga,Nasarawa,Akwanga,Secondary,Public,Rural,2019-10-03,183829.0,9.21441,3.7317
+NAS005,Mission Hospital Nasarawa,Nasarawa,Nasarawa,Secondary,Faith-based,Urban,2014-05-07,167496.0,9.77966,3.23616
+NAS006,Primary Health Centre Lafia II,Nasarawa,Lafia,Primary,Faith-based,Urban,2022-01-16,199991.0,8.18424,5.4325
+NAS007,General Hospital Karu II,Nasarawa,Karu,Secondary,Private,Urban,2014-08-25,197190.0,9.05993,7.19223
+NAS008,Comprehensive Health Centre Keffi II,Nasarawa,Keffi,Primary,Public,Rural,2020-08-04,154491.0,7.26932,7.97063
+NAS009,Cottage Hospital Akwanga II,Nasarawa,Akwanga,Secondary,Public,Rural,2018-03-08,222359.0,10.74116,9.22416
+NAS010,Teaching Hospital Nasarawa II,Nasarawa,Nasarawa,Tertiary,Public,Rural,2014-01-01,203431.0,5.93734,6.38923
+NAS011,Mission Hospital Lafia II,Nasarawa,Lafia,Secondary,Public,Urban,2021-10-12,203989.0,10.44085,4.05005
+NAS012,Mission Hospital Karu II,Nasarawa,Karu,Secondary,Private,Urban,2018-06-04,84078.0,8.98272,7.57554
+NAS013,General Hospital Keffi II,Nasarawa,Keffi,Secondary,Public,Rural,2021-11-01,173627.0,6.56181,7.5696
+NAS014,Teaching Hospital Akwanga II,Nasarawa,Akwanga,Tertiary,Public,Rural,2012-11-18,210438.0,5.63161,5.01699
+NAS015,Specialist Hospital Nasarawa II,Nasarawa,Nasarawa,Tertiary,Private,Urban,2013-05-08,196697.0,7.28363,5.03756
+NEW001,Newly Activated Health Post Obudu,Cross River,Obudu,Primary,Private,Urban,2018-08-05,155505.0,11.31909,9.02246
+NEW002,Newly Activated Health Post Calabar Municipal,Cross River,Calabar Municipal,Primary,Public,Rural,2020-03-08,195430.0,9.40478,3.56223
+NEW003,Newly Activated Health Post Abak,Akwa Ibom,Abak,Primary,Public,Rural,2016-08-10,70260.0,6.37644,3.46073
+NEW004,Newly Activated Health Post Karu,Nasarawa,Karu,Secondary,Private,Urban,2014-08-25,197190.0,9.05993,7.19223
+NEW005,Newly Activated Health Post Ikom,Cross River,Ikom,Primary,Public,Rural,2017-10-18,46195.0,5.01068,5.08764
+AKS011,Comprehensive Health Centre Etinan II,Akwa Ibom,Etinan,Primary,Private,Urban,2019-02-22,87342.0,6.43089,4.63373
