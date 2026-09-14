@@ -1,0 +1,128 @@
+facility_id,report_month,rule,issue
+LAG003,2024-03-31,R1,hts_tst_pos exceeds hts_tst
+FCT005,2023-02-28,R1,hts_tst_pos exceeds hts_tst
+RIV014,2023-06-30,R1,hts_tst_pos exceeds hts_tst
+BEN012,2024-08-01,R1,hts_tst_pos exceeds hts_tst
+NAS999,2024-04-30,R1,hts_tst_pos exceeds hts_tst
+KAD015,2024-01-31,R1,hts_tst_pos exceeds hts_tst
+RIV011,2022-12-31,R1,hts_tst_pos exceeds hts_tst
+KAD013,2022-04-30,R1,hts_tst_pos exceeds hts_tst
+NAS015,2023-08-31,R1,hts_tst_pos exceeds hts_tst
+CRS013,2024-05-31,R1,hts_tst_pos exceeds hts_tst
+NAS014,2023-02-28,R1,hts_tst_pos exceeds hts_tst
+NAS014,2023-11-30,R1,hts_tst_pos exceeds hts_tst
+CRS001,2023-04-30,R1,hts_tst_pos exceeds hts_tst
+FCT002,2024-12-31,R1,hts_tst_pos exceeds hts_tst
+BEN002,2023-07-31,R1,hts_tst_pos exceeds hts_tst
+LAG012,2022-05-31,R1,hts_tst_pos exceeds hts_tst
+NAS001,2024-11-30,R1,hts_tst_pos exceeds hts_tst
+BEN010,2024-02-29,R1,hts_tst_pos exceeds hts_tst
+AKS006,2023-08-31,R1,hts_tst_pos exceeds hts_tst
+FCT005,2022-05-31,R1,hts_tst_pos exceeds hts_tst
+FCT005,2023-05-01,R1,hts_tst_pos exceeds hts_tst
+FCT010,2023-12-31,R1,hts_tst_pos exceeds hts_tst
+FCT001,2023-04-30,R1,hts_tst_pos exceeds hts_tst
+NAS007,2024-11-30,R1,hts_tst_pos exceeds hts_tst
+NAS999,2024-03-31,R1,hts_tst_pos exceeds hts_tst
+BEN007,2023-07-31,R1,hts_tst_pos exceeds hts_tst
+AKS001,2023-09-30,R1,hts_tst_pos exceeds hts_tst
+KAD014,2024-04-30,R1,hts_tst_pos exceeds hts_tst
+CRS014,2022-07-31,R1,hts_tst_pos exceeds hts_tst
+AKS009,2023-11-30,R1,hts_tst_pos exceeds hts_tst
+FCT008,2022-12-31,R1,hts_tst_pos exceeds hts_tst
+NAS999,2024-01-31,R1,hts_tst_pos exceeds hts_tst
+FCT013,2023-09-30,R1,hts_tst_pos exceeds hts_tst
+NAS002,2023-02-28,R1,hts_tst_pos exceeds hts_tst
+KAD015,2022-09-30,R1,hts_tst_pos exceeds hts_tst
+LAG006,2022-07-31,R1,hts_tst_pos exceeds hts_tst
+AKS004,2024-07-31,R1,hts_tst_pos exceeds hts_tst
+LAG009,2023-02-01,R1,hts_tst_pos exceeds hts_tst
+RIV004,2022-06-30,R1,hts_tst_pos exceeds hts_tst
+LAG004,2024-08-31,R1,hts_tst_pos exceeds hts_tst
+CRS007,2024-01-01,R1,hts_tst_pos exceeds hts_tst
+BEN002,2024-01-31,R1,hts_tst_pos exceeds hts_tst
+BEN003,2023-04-30,R1,hts_tst_pos exceeds hts_tst
+KAD004,2022-05-31,R1,hts_tst_pos exceeds hts_tst
+KAD006,2023-09-30,R1,hts_tst_pos exceeds hts_tst
+CRS009,2024-05-31,R1,hts_tst_pos exceeds hts_tst
+AKS014,2024-05-31,R1,hts_tst_pos exceeds hts_tst
+NAS003,2023-10-31,R1,hts_tst_pos exceeds hts_tst
+RIV004,2022-12-01,R1,hts_tst_pos exceeds hts_tst
+LAG008,2024-08-31,R1,hts_tst_pos exceeds hts_tst
+NAS003,2024-03-01,R2,PMTCT cascade relationship is invalid
+AKS015,2024-11-30,R2,PMTCT cascade relationship is invalid
+KAD006,2022-12-31,R2,PMTCT cascade relationship is invalid
+FCT015,2022-04-30,R2,PMTCT cascade relationship is invalid
+RIV006,2024-05-31,R2,PMTCT cascade relationship is invalid
+KAD007,2022-11-30,R2,PMTCT cascade relationship is invalid
+FCT005,2023-10-31,R2,PMTCT cascade relationship is invalid
+NAS001,2024-04-01,R2,PMTCT cascade relationship is invalid
+LAG099,2024-02-01,R2,PMTCT cascade relationship is invalid
+AKS010,2022-05-31,R2,PMTCT cascade relationship is invalid
+AKS012,2024-02-01,R2,PMTCT cascade relationship is invalid
+CRS008,2023-12-31,R2,PMTCT cascade relationship is invalid
+CRS004,2023-09-30,R2,PMTCT cascade relationship is invalid
+NAS999,2024-02-29,R2,PMTCT cascade relationship is invalid
+NAS003,2022-04-30,R2,PMTCT cascade relationship is invalid
+CRS005,2022-07-31,R2,PMTCT cascade relationship is invalid
+LAG013,2022-05-31,R2,PMTCT cascade relationship is invalid
+BEN005,2024-07-31,R2,PMTCT cascade relationship is invalid
+CRS002,2023-04-30,R2,PMTCT cascade relationship is invalid
+BEN004,2022-10-31,R2,PMTCT cascade relationship is invalid
+LAG099,2022-12-31,R2,PMTCT cascade relationship is invalid
+AKS004,2022-02-28,R3,Viral load cascade relationship is invalid
+FCT004,2024-03-31,R3,Viral load cascade relationship is invalid
+NAS006,2023-11-01,R3,Viral load cascade relationship is invalid
+BEN013,2022-05-31,R3,Viral load cascade relationship is invalid
+FCT004,2022-06-30,R3,Viral load cascade relationship is invalid
+AKS006,2023-12-31,R3,Viral load cascade relationship is invalid
+RIV004,2024-11-30,R3,Viral load cascade relationship is invalid
+CRS013,2022-10-31,R3,Viral load cascade relationship is invalid
+NAS003,2024-07-31,R3,Viral load cascade relationship is invalid
+BEN009,2023-02-28,R3,Viral load cascade relationship is invalid
+FCT008,2022-10-31,R3,Viral load cascade relationship is invalid
+AKS012,2024-01-31,R3,Viral load cascade relationship is invalid
+LAG014,2022-05-31,R3,Viral load cascade relationship is invalid
+KAD006,2022-07-31,R3,Viral load cascade relationship is invalid
+CRS008,2023-01-31,R3,Viral load cascade relationship is invalid
+BEN011,2024-03-31,R3,Viral load cascade relationship is invalid
+CRS009,2023-12-31,R3,Viral load cascade relationship is invalid
+BEN004,2023-09-30,R3,Viral load cascade relationship is invalid
+KAD002,2024-04-30,R3,Viral load cascade relationship is invalid
+CRS008,2024-03-31,R3,Viral load cascade relationship is invalid
+KAD009,2022-03-31,R3,Viral load cascade relationship is invalid
+LAG004,2024-01-31,R3,Viral load cascade relationship is invalid
+KAD013,2024-12-31,R3,Viral load cascade relationship is invalid
+NAS003,2024-10-31,R3,Viral load cascade relationship is invalid
+RIV002,2022-08-01,R3,Viral load cascade relationship is invalid
+RIV011,2022-07-01,R3,Viral load cascade relationship is invalid
+XXX999,2023-10-31,R3,Viral load cascade relationship is invalid
+LAG015,2023-08-31,R3,Viral load cascade relationship is invalid
+CRS006,2022-03-31,R3,Viral load cascade relationship is invalid
+RIV012,2024-04-30,R3,Viral load cascade relationship is invalid
+FCT005,2023-11-30,R3,Viral load cascade relationship is invalid
+NAS010,2022-02-28,R3,Viral load cascade relationship is invalid
+NAS015,2022-09-30,R3,Viral load cascade relationship is invalid
+AKS013,2022-10-31,R3,Viral load cascade relationship is invalid
+NAS008,2023-09-30,R3,Viral load cascade relationship is invalid
+FCT009,2022-06-30,R3,Viral load cascade relationship is invalid
+KAD005,2023-08-31,R3,Viral load cascade relationship is invalid
+RIV005,2022-05-31,R3,Viral load cascade relationship is invalid
+LAG012,2024-01-31,R3,Viral load cascade relationship is invalid
+AKS005,2024-05-31,R3,Viral load cascade relationship is invalid
+KAD011,2024-04-30,R3,Viral load cascade relationship is invalid
+NAS004,2024-12-31,R3,Viral load cascade relationship is invalid
+KAD004,2024-12-31,R3,Viral load cascade relationship is invalid
+FCT011,2022-09-30,R3,Viral load cascade relationship is invalid
+AKS005,2023-06-30,R3,Viral load cascade relationship is invalid
+RIV007,2023-02-28,R3,Viral load cascade relationship is invalid
+FCT003,2024-01-31,R4,tb_pos exceeds tb_screen
+LAG012,2023-06-30,R4,tb_pos exceeds tb_screen
+RIV001,2024-01-31,R4,tb_pos exceeds tb_screen
+NAS009,2023-04-30,R4,tb_pos exceeds tb_screen
+AKS011,2022-06-30,R4,tb_pos exceeds tb_screen
+AKS003,2023-08-31,R4,tb_pos exceeds tb_screen
+LAG011,2024-09-30,R4,tb_pos exceeds tb_screen
+FCT005,2023-04-30,R4,tb_pos exceeds tb_screen
+AKS002,2022-12-31,R4,tb_pos exceeds tb_screen
+KAD006,2024-09-30,R4,tb_pos exceeds tb_screen
