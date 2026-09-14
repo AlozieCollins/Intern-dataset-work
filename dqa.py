@@ -24,6 +24,7 @@ def clean(df):
         "state",
         "facility_name",
         "facility_id"
+        
     ]
 
     for col in text_cols:
@@ -34,6 +35,10 @@ def clean(df):
                 .str.strip()
                 .str.upper()
             )
+
+    df["lga"] = (
+        df["lga"].astype("string").str.strip().str.upper()
+    )
 
     if "state" in df.columns:
         state_mapping = {
