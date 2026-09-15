@@ -705,7 +705,7 @@ This makes it reusable with different datasets and output folders.
 
 Example:
 
-`python dqa.py --input data --output results`
+`python dqa.py --input data --output results_test`
 
 ---
 
